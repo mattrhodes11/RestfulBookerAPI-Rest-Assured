@@ -1,0 +1,16 @@
+2023-11-15 12:26:32.302 [main] INFO  api.test.DataDrivenTests - *** Creating Booking using test data from excel sheet ***
+2023-11-15 12:26:36.812 [main] INFO  api.test.DataDrivenTests - *** Booking successfully created ***
+2023-11-15 12:26:36.852 [main] INFO  api.test.DataDrivenTests - *** Creating Booking using test data from excel sheet ***
+2023-11-15 12:26:37.842 [main] INFO  api.test.DataDrivenTests - *** Booking successfully created ***
+2023-11-15 12:26:37.851 [main] INFO  api.test.DataDrivenTests - *** Creating Booking using test data from excel sheet ***
+2023-11-15 12:26:38.717 [main] INFO  api.test.DataDrivenTests - *** Booking successfully created ***
+2023-11-15 12:26:39.322 [main] INFO  api.test.BookingTests - *** Creating Auth token ***
+2023-11-15 12:26:41.541 [main] INFO  api.test.BookingTests - *** Auth token created successfully ***
+2023-11-15 12:26:41.548 [main] INFO  api.test.BookingTests - *** Creating Booking ***
+2023-11-15 12:26:42.414 [main] INFO  api.test.BookingTests - *** Created booking with ID: 2427 ***
+2023-11-15 12:26:42.425 [main] INFO  api.test.BookingTests - *** Getting Booking with ID: 2427 ***
+2023-11-15 12:26:43.375 [main] INFO  api.test.BookingTests - *** Successfully retrieved booking with ID: 2427 ***
+2023-11-15 12:26:43.382 [main] INFO  api.test.BookingTests - *** Updating Booking with ID: 2427 ***
+2023-11-15 12:26:45.507 [main] INFO  api.test.BookingTests - *** Booking with ID: 2427 updated successfully ***
+2023-11-15 12:26:45.512 [main] INFO  api.test.BookingTests - *** Deleting Booking with ID: 2427 ***
+2023-11-15 12:26:46.449 [main] INFO  api.test.BookingTests - *** Booking with ID: 2427 deleted successfully ***
